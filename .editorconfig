@@ -1,0 +1,21 @@
+# 代码约束  http://editorconfig.org/
+
+# 该文件在vscode中无效，但在sublime中能用，不知什么原因
+
+
+# 以当前配置为准，不再向上级寻找
+root = true
+
+
+
+[*]
+
+charset = utf-8
+
+indent_style = tab
+indent_size = 4
+
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+

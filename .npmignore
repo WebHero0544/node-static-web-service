@@ -1,0 +1,5 @@
+#  https://docs.npmjs.com/misc/developers
+
+# npm包在发布前需要忽略的文件
+src
+test

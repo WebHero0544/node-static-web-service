@@ -1,0 +1,5 @@
+# 排除被eslint校验的文件夹
+
+build/
+node_modules
+test
